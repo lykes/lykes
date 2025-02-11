@@ -1,16 +1,30 @@
-## Hi there 👋
+<span style="color:red; font-size:small;">Welcome to my GitHub profile!</span>
 
-<!--
-**lykes/lykes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Role**: Senior Machine Learning Engineer & Project Manager
+- **Current**: Anthropic
+- **Previous**: Databricks
+- **Experience**: Bridging the gap between innovative machine learning solutions and impactful project delivery.
+
+## Expertise
+
+- **Machine Learning**: Designing and deploying robust ML models.
+- **Project Management**: Leading teams to success with precision and clarity.
+- **Innovation**: Passionate about pushing the boundaries of AI.
+
+## Highlights
+
+- **Leadership**: Spearheaded multiple high-impact projects.
+- **Collaboration**: Thrive in dynamic, cross-functional environments.
+- **Growth**: Committed to continuous learning and improvement.
+
+## Philosophy
+
+Crafting solutions that are as elegant as they are effective.
+
+---
+
+Explore my repositories to see my work in action. Let's build the future of AI together.
