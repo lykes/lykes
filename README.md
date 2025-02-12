@@ -1,30 +1,45 @@
-<span style="color:red; font-size:small;">Welcome to my GitHub profile!</span>
+<div align="center">
+  <style>
+    .animated-text {
+      background: linear-gradient(-45deg, #ff0000, #ff6666, #ff0000);
+      background-size: 400% 400%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradient 3s ease infinite;
+      font-weight: 700;
+      font-size: 2.5em;
+    }
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+  <div class="animated-text">✦ Building Intelligent Systems ✦</div>
+  
+  ---
 
-# Welcome to My GitHub
+  **Machine Learning Architect** specializing in scalable AI solutions  
+  **Ex-Databricks** | **Anthropic PM** | **29 y/o Prototyper**
+  **WebAIDeFi Founder**
 
-## About Me
+  ---
 
-- **Role**: Senior Machine Learning Engineer & Project Manager
-- **Current**: Anthropic
-- **Previous**: Databricks
-- **Experience**: Bridging the gap between innovative machine learning solutions and impactful project delivery.
+  ### 🛠️ Core Stack
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+  ![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apachespark)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 
-## Expertise
+  ### 🚀 Current Focus
+  - Productionizing LLMs at scale
+  - ML pipeline orchestration
+  - Edge intelligence systems
 
-- **Machine Learning**: Designing and deploying robust ML models.
-- **Project Management**: Leading teams to success with precision and clarity.
-- **Innovation**: Passionate about pushing the boundaries of AI.
+  ### 🧠 Philosophy
+  *"Architect first, optimize later - but measure twice."*
 
-## Highlights
+  ---
 
-- **Leadership**: Spearheaded multiple high-impact projects.
-- **Collaboration**: Thrive in dynamic, cross-functional environments.
-- **Growth**: Committed to continuous learning and improvement.
-
-## Philosophy
-
-Crafting solutions that are as elegant as they are effective.
-
----
-
-Explore my repositories to see my work in action. Let's build the future of AI together.
+  ![Metrics](https://github.com/[yourname]/[yourname]/blob/master/github-metrics.svg)
+</div>
