@@ -5,6 +5,7 @@
 
   **Machine Learning Architect** specializing in scalable AI solutions  
   **Ex-Databricks** | **Anthropic PM** | **29 y/o Prototyper**
+  
   **WebAIDeFi Founder**
 
   ---
